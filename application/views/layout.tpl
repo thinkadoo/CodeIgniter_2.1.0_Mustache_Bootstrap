@@ -1,5 +1,5 @@
 {{> header}}
 
-{{> basecss}}
+{{> content}}
 
 {{> footer}}

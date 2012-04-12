@@ -3,7 +3,7 @@
 <head>
     {{{base}}}
     <meta charset="utf-8">
-    <title>Base · Twitter Bootstrap</title>
+    <title>Mustache Twitter Bootstrap</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -46,13 +46,16 @@
                         <a href="{{{current}}}">Overview</a>
                     </li>
                     <li class="">
-                        <a href="{{{current}}}">One</a>
+                        <a href="{{{current}}}">Scaffold</a>
                     </li>
                     <li class="">
-                        <a href="{{{current}}}">Two</a>
+                        <a href="{{{current}}}">Base CSS</a>
                     </li>
                     <li class="">
-                        <a href="{{{current}}}">Three</a>
+                        <a href="{{{current}}}">Components</a>
+                    </li>
+                    <li class="">
+                        <a href="{{{current}}}">Javascript</a>
                     </li>
                     <li class="divider-vertical"></li>
                     <li class="">
